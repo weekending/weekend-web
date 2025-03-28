@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import '@/src/app/styles/globals.css';
 
 export const metadata: Metadata = {
   title: 'Weekending',
